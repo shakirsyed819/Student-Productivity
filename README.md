@@ -68,9 +68,3 @@ Suggestions and improvements are welcome!
 2. Create a new branch.
 3. Make your changes.
 4. Submit a pull request.
-
-
-
-**Made with ❤️ for students, by a student.**
-
-*Stay organized. Study smarter. Make every session count.*
